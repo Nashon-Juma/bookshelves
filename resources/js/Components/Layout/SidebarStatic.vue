@@ -49,7 +49,7 @@ function setTheme(mode: "light" | "dark") {
               />
             </ul>
 
-            <!-- Side-by-Side Theme Switcher Buttons -->
+            <!-- Theme Switcher -->
             <div class="flex items-center justify-center space-x-4 mt-4">
               <!-- Light Mode Button -->
               <button
