@@ -63,7 +63,6 @@ Check NGINX logs
 ```sh
 docker container exec bookshelves_app tail -f /var/log/nginx/bookshelves.log
 ```
-
 ### Roadmap
 
 -   [ ] Add Docker installation option
